@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App Locker</string>
+    <string name="accessibility_desc">লক করা অ্যাপগুলো ধরতে সাহায্য করে। এটি কোনো ডেটা সংগ্রহ করে না।</string>
+</resources>
